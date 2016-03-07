@@ -1,0 +1,28 @@
+name: Thirdeye
+favicon: null
+layout_spectrum: 0.7925291873980314
+typography_spectrum: 0.04549889243207872
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#B8B42D'
+    - '#697A21'
+    - '#FFFCE8'
+    - '#3E363F'
+    - '#DD403A'
+  brandStrength: 0.3948847164865583
+  lightness: 0.6951629538089037
+  saturation: 0.7671741293743253
+  rhythmicContrast: 0.6206566684413701
+purpose: []
