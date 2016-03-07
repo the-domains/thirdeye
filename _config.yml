@@ -1,7 +1,7 @@
 name: Thirdeye
 favicon: null
-layout_spectrum: 0.7925291873980314
-typography_spectrum: 0.04549889243207872
+layout_spectrum: 0.99904
+typography_spectrum: 0.74855
 cta:
   domain: null
   bucket: null
@@ -16,11 +16,11 @@ opengraph:
   appId: null
 color:
   brandColors:
-    - '#B8B42D'
-    - '#697A21'
-    - '#FFFCE8'
-    - '#3E363F'
-    - '#DD403A'
+    - '#020202'
+    - '#2b353d'
+    - '#70533e'
+    - '#e5c9b6'
+    - '#fefefe'
   brandStrength: 0.3948847164865583
   lightness: 0.6951629538089037
   saturation: 0.7671741293743253
