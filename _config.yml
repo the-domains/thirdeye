@@ -1,5 +1,4 @@
-favicon: null
-name: Thirdeye
+layout_spectrum: 0.99904
 opengraph:
   image: null
   type: null
@@ -27,14 +26,15 @@ color:
     - '#70533e'
     - '#e5c9b6'
     - '#fefefe'
-  rhythmicContrast: 0.1319149
+  rhythmicContrast: 0
 typography_spectrum: 0.74855
 cta:
   bucket: null
   version: null
   domain: null
-layout_spectrum: 0.99904
 analytics:
   twitter: null
   google: null
   facebook: null
+favicon: null
+name: Thirdeye
