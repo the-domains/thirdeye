@@ -3,7 +3,7 @@ inFeed: false
 hasPage: true
 inNav: true
 inLanguage: en
-starred: false
+starred: true
 keywords:
   - duration
   - wintergatan
@@ -16,8 +16,8 @@ keywords:
   - novice
   - '679'
 description: ''
-datePublished: '2016-03-08T22:48:04.248Z'
-dateModified: '2016-03-08T22:47:35.584Z'
+datePublished: '2016-03-08T22:57:38.020Z'
+dateModified: '2016-03-08T22:57:37.676Z'
 author:
   - name: Nathan Inton
     url: 'https://www.youtube.com/channel/UCPRqca3by0SrtggGEoKHtiw'
