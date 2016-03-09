@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title><![CDATA[Thirdeye]]></title>
+        <description><![CDATA[Thirdeye]]></description>
+        <link>http://github.com/dylang/node-rss</link>
+        <generator>The Grid</generator>
+        <lastBuildDate>Wed, 09 Mar 2016 09:05:33 GMT</lastBuildDate>
+        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[My First shoot on my Canon 70D...A real eye opener in a sense that there is a lot to consider before hitting the Rec button...This is a lesson that every Ninja shooter should consider!!..But who cares about Camera settings because at the end of the day it is the learning experience that you gain that matters most!!!]]></title>
+            <description><![CDATA[<article><h1>My First shoot on my Canon 70D...A real eye opener in a sense that there is a lot to consider before hitting the Rec button...This is a lesson that every Ninja shooter should consider!!..But who cares about Camera settings because at the end of the day it is the learning experience that you gain that matters most!!!</h1><p>Music: www.bensound.com/royalty-free-music</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/a98cea2af9c7c5e899e4bdf631976fb51ea83b49.jpg"></article>]]></description>
+            <link>undefinedmy-first-shoot-on-my-canon-70da-real-eye-opener-in-a-sens/index.html</link>
+            <guid isPermaLink="false">381fd0f2-df16-4622-ba55-fa0ea72530b1</guid>
+            <pubDate>Wed, 09 Mar 2016 09:05:04 GMT</pubDate>
+        </item>
+    </channel>
+</rss>
