@@ -1,9 +1,7 @@
-favicon: null
 name: Thirdeye
-opengraph:
-  image: null
-  type: null
-  appId: null
+favicon: null
+layout_spectrum: 0.75241
+typography_spectrum: 0.74855
 collections:
   - index:
       path: /
@@ -16,25 +14,27 @@ collections:
       path: /rss.xml
       format: rss
       number: 10
-purpose: []
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
 color:
-  saturation: 0
-  brandStrength: 0
-  lightness: 0
   brandColors:
     - '#020202'
     - '#2b353d'
     - '#70533e'
     - '#e5c9b6'
     - '#fefefe'
+  brandStrength: 0
+  lightness: 0
+  saturation: 0
   rhythmicContrast: 0.6106383
-typography_spectrum: 0.74855
-layout_spectrum: 0.99904
-analytics:
-  twitter: null
-  google: null
-  facebook: null
-cta:
-  bucket: null
-  version: null
-  domain: null
+purpose: []
