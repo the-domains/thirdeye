@@ -16,8 +16,8 @@ keywords:
   - '879'
   - novice
 description: "On our 11th year Wedding Anniversary...Me and my wife decided to celebrate and spend it in Belgium...This is where i started the Novice Look Project...It was created less than a month after i bought the camera to capture the elegance and stunning sceneries of it's two famous cities...This travel video was divided into a two part series BRUSSELS and BRUGGE...After endless hours of countless fiddling and experimenting with the camera i was able to gain an important wake - up call of some sort...A deep realization that it is not what the camera's strength that makes the big difference in film making but it's WEAKNESS!...Knowing your camera's limitation is essential in Filmmaking...So crucial for the sole reason that it gives you the drive to innovate and be more creative with your shots...Turning your camera's deficiency into an advantage takes a lot of motivation and sacrifice...But it is a tool that every film maker should have...The canon 70D has it's own share of pros and cons...It is not the perfect camera out there but certainly it is one of the best DSLR's to learn the craft...I shot everything handheld in this video using the kit lens which is the canon 18-135 mm EFS 3.5 and the canon 40 mm prime pancake lens 2.8...This is the first time that i used a prime lens and a variable ND Filter...ND stands for Neutral Density and it's a must have accessory in every shoot...Prime lenses are very good when you are just starting in film making...It makes you zoom in and out with your feet...Framing and compositing skills are being learned through the process of zooming with your feet...Thus making this film gave me a huge amount of knowledge... Things i did not know previously...This was also the first time that i had people as subjects and i did not go far to search for the person to portray the main character on this one...My gorgeous and ever supporting betterhalf... This video is so important and special because it reminds me that sometimes it is the simple things that matter...Like FAMILY...My wife is everything to me and this film made me appreciate her more...This made me realize how blessed i am to have her not only as my soulmate but as my Best Friend..."
-datePublished: '2016-03-09T08:11:57.894Z'
-dateModified: '2016-03-09T08:11:22.504Z'
+datePublished: '2016-03-09T08:17:06.022Z'
+dateModified: '2016-03-09T08:14:28.419Z'
 author:
   - name: Nathan Inton
     url: 'https://www.youtube.com/channel/UCPRqca3by0SrtggGEoKHtiw'
@@ -61,14 +61,14 @@ app_links:
     namespace: google
     type: ios
 title: 'Novice Look: Brussels'
+sourcePath: _posts/2016-03-09-novice-look-brussels.md
+published: true
 authors: []
 publisher:
   name: YouTube
   domain: youtu.be
   url: 'https://www.youtube.com/'
   favicon: 'https://s.ytimg.com/yts/img/favicon-vflz7uhzw.ico'
-sourcePath: _posts/2016-03-09-novice-look-brussels.md
-published: true
 url: novice-look-brussels/index.html
 _type: VideoObject
 _context: 'http://schema.org'
