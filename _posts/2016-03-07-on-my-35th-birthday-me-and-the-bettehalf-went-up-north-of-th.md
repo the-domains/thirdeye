@@ -1,14 +1,13 @@
 ---
-inFeed: true
-hasPage: false
+inFeed: false
+hasPage: true
 inNav: false
-isBasedOnUrl: 'https://youtu.be/_I0WxY34aUc'
 inLanguage: null
 starred: false
 keywords: []
 description: 'Castle Leslie Estate Music: www.bensound.com/royalty-free-music'
-datePublished: '2016-03-07T19:09:50.291Z'
-dateModified: '2016-03-07T19:09:16.931Z'
+datePublished: '2016-03-09T08:10:28.688Z'
+dateModified: '2016-03-09T08:10:24.502Z'
 author:
   - name: Nathan Inton
     url: 'https://www.youtube.com/channel/UCPRqca3by0SrtggGEoKHtiw'
@@ -16,14 +15,15 @@ author:
 related: []
 app_links: []
 title: "On my 35th Birthday me and the bettehalf went up north of the border in Ireland to visit this lovely Estate...Castle Leslie was the first time i shot my Canon 70D handheld outdoors...The best part of this trip aside from having to watch my wife ride a horse for the first time in her life( which was a sight to see)... is that i got to play around with the camera settings a little bit and also enabled me to appreciate some important things when shooting outdoors...Image stabilization on lenses and cameras, Filters (polarizer and ND's etc.) and extra accessories like a simple tripod, monopod or even sliders if you have one...But on the contrary it is not about the gear all the time...remember less makes you think outside the BOX...\_"
+sourcePath: _posts/2016-03-07-on-my-35th-birthday-me-and-the-bettehalf-went-up-north-of-th.md
+published: true
 authors: []
 publisher:
   name: YouTube
   domain: youtu.be
   url: 'https://www.youtube.com/'
   favicon: 'https://www.youtube.com/favicon.ico'
-sourcePath: _posts/2016-03-07-on-my-35th-birthday-me-and-the-bettehalf-went-up-north-of-th.md
-published: true
+url: on-my-35th-birthday-me-and-the-bettehalf-went-up-north-of-th/index.html
 _type: VideoObject
 _context: 'http://schema.org'
 
