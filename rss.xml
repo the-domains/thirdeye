@@ -2,14 +2,21 @@
     <channel>
         <title><![CDATA[Thirdeye]]></title>
         <description><![CDATA[Thirdeye]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/thirdeye/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Wed, 09 Mar 2016 09:05:33 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Wed, 09 Mar 2016 09:08:10 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/thirdeye/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[On my 35th Birthday me and the bettehalf went up north of the border in Ireland to visit this lovely Estate...Castle Leslie was the first time i shot my Canon 70D handheld outdoors...The best part of this trip aside from having to watch my wife ride a horse for the first time in her life( which was a sight to see)... is that i got to play around with the camera settings a little bit and also enabled me to appreciate some important things when shooting outdoors...Image stabilization on lenses and cameras, Filters (polarizer and ND's etc.) and extra accessories like a simple tripod, monopod or even sliders if you have one...But on the contrary it is not about the gear all the time...remember less makes you think outside the BOX... ]]></title>
+            <description><![CDATA[<article><h1>On my 35th Birthday me and the bettehalf went up north of the border in Ireland to visit this lovely Estate...Castle Leslie was the first time i shot my Canon 70D handheld outdoors...The best part of this trip aside from having to watch my wife ride a horse for the first time in her life( which was a sight to see)... is that i got to play around with the camera settings a little bit and also enabled me to appreciate some important things when shooting outdoors...Image stabilization on lenses and cameras, Filters (polarizer and ND's etc.) and extra accessories like a simple tripod, monopod or even sliders if you have one...But on the contrary it is not about the gear all the time...remember less makes you think outside the BOX... </h1><p>Castle Leslie Estate Music: www.bensound.com/royalty-free-music</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/92f3ce086684a31bf00e42e951fb8d36bd58a96c.jpg"></article>]]></description>
+            <link>https://thegrid.ai/thirdeye/on-my-35th-birthday-me-and-the-bettehalf-went-up-north-of-th/index.html</link>
+            <guid isPermaLink="false">37472184-ef76-4af3-ac1b-db871b248abc</guid>
+            <pubDate>Wed, 09 Mar 2016 09:07:20 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[My First shoot on my Canon 70D...A real eye opener in a sense that there is a lot to consider before hitting the Rec button...This is a lesson that every Ninja shooter should consider!!..But who cares about Camera settings because at the end of the day it is the learning experience that you gain that matters most!!!]]></title>
             <description><![CDATA[<article><h1>My First shoot on my Canon 70D...A real eye opener in a sense that there is a lot to consider before hitting the Rec button...This is a lesson that every Ninja shooter should consider!!..But who cares about Camera settings because at the end of the day it is the learning experience that you gain that matters most!!!</h1><p>Music: www.bensound.com/royalty-free-music</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/a98cea2af9c7c5e899e4bdf631976fb51ea83b49.jpg"></article>]]></description>
-            <link>undefinedmy-first-shoot-on-my-canon-70da-real-eye-opener-in-a-sens/index.html</link>
+            <link>https://thegrid.ai/thirdeye/my-first-shoot-on-my-canon-70da-real-eye-opener-in-a-sens/index.html</link>
             <guid isPermaLink="false">381fd0f2-df16-4622-ba55-fa0ea72530b1</guid>
             <pubDate>Wed, 09 Mar 2016 09:05:04 GMT</pubDate>
         </item>
