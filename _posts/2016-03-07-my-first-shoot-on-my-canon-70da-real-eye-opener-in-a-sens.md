@@ -1,8 +1,7 @@
 ---
-inFeed: true
-hasPage: false
+inFeed: false
+hasPage: true
 inNav: false
-isBasedOnUrl: 'https://youtu.be/xWBZCIwPGEU'
 inLanguage: en
 starred: false
 keywords:
@@ -17,8 +16,8 @@ keywords:
   - 085
   - '679'
 description: 'Music: www.bensound.com/royalty-free-music'
-datePublished: '2016-03-07T17:45:28.848Z'
-dateModified: '2016-03-07T17:45:11.203Z'
+datePublished: '2016-03-09T08:31:09.987Z'
+dateModified: '2016-03-09T08:31:08.918Z'
 author:
   - name: Nathan Inton
     url: 'https://www.youtube.com/channel/UCPRqca3by0SrtggGEoKHtiw'
@@ -62,14 +61,15 @@ app_links:
     namespace: google
     type: ios
 title: 'My First shoot on my Canon 70D...A real eye opener in a sense that there is a lot to consider before hitting the Rec button...This is a lesson that every Ninja shooter should consider!!..But who cares about Camera settings because at the end of the day it is the learning experience that you gain that matters most!!!'
+sourcePath: _posts/2016-03-07-my-first-shoot-on-my-canon-70da-real-eye-opener-in-a-sens.md
+published: true
 authors: []
 publisher:
   name: YouTube
   domain: youtu.be
   url: 'https://www.youtube.com/'
   favicon: 'https://s.ytimg.com/yts/img/favicon-vflz7uhzw.ico'
-sourcePath: _posts/2016-03-07-my-first-shoot-on-my-canon-70da-real-eye-opener-in-a-sens.md
-published: true
+url: my-first-shoot-on-my-canon-70da-real-eye-opener-in-a-sens/index.html
 _type: VideoObject
 _context: 'http://schema.org'
 
