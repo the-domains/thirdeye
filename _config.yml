@@ -1,6 +1,6 @@
 name: Thirdeye
 favicon: null
-layout_spectrum: 1
+layout_spectrum: 0.75371
 typography_spectrum: 0.74855
 collections:
   - index:
